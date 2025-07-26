@@ -1,4 +1,5 @@
 #Linear regression in machine learning
+
 This project focuses on building a supervised machine learning model using Linear Regression to predict outcomes based on continuous variables. The model was trained and tested on the Boston Housing dataset to estimate house prices.
 
 🔍 Overview
